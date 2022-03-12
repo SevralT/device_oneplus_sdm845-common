@@ -134,6 +134,9 @@ ro.hardware.keystore_desede=true
 # Media
 debug.stagefright.omx_default_rank=0
 
+# Memory Management
+ro.vendor.qti.sys.fw.bg_apps_limit=64
+
 # Netflix
 ro.netflix.bsp_rev=Q845-14477-1
 
