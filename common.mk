@@ -158,7 +158,8 @@ PRODUCT_PACKAGES += \
     libbthost_if \
     vendor.qti.hardware.bluetooth_audio@2.1.vendor \
     vendor.qti.hardware.btconfigstore@1.0.vendor \
-    vendor.qti.hardware.btconfigstore@2.0.vendor
+    vendor.qti.hardware.btconfigstore@2.0.vendor \
+    vendor.qti.hardware.capabilityconfigstore@1.0.vendor
 
 # Boot control
 PRODUCT_PACKAGES += \
